@@ -1,0 +1,11 @@
+{
+    "Position": "Position",
+    "Company": "Company",
+    "Salary": "Salary",
+    "City": "City",
+    "PulibicationDate": "Publication Date",
+    "Views": "Views",
+    "one": "million",
+    "plural": "millions",
+    "thead": "thead-dark"
+}
